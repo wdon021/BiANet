@@ -1,0 +1,13 @@
+torch>=2.0
+torch-geometric
+torch-scatter
+torch-cluster
+rdkit
+pandas
+numpy
+scipy
+scikit-learn
+pyyaml
+tqdm
+joblib
+uncertainty-toolbox
